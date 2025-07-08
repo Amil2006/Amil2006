@@ -5,16 +5,19 @@
 
 <h1 align="center">Hey there 👋, I'm Amil Mahajan</h1>
 
-<!-- Side-by-Side About + GIF -->
-<img src="./assets/night-code.gif" align="right" width="350px" style="margin-left: 20px;" />
+<!-- Who Am I section with image floated right -->
 <h3>🚀 Who Am I?</h3>
+
+<p>
+  <img src="./assets/night-code.gif" align="right" width="320px" style="margin-left: 20px; border-radius: 10px;" />
+</p>
 
 <ul>
   <li>🎓 CSE undergrad with a passion for innovation and automation @VIT Vellore</li><br>
   <li>🤖 Enthusiast in Generative AI, Machine Learning, and Blockchain Technologies</li><br>
   <li>🛠️ Crafting intelligent solutions and real-world systems that make a difference</li><br>
   <li>💡 Skilled in Python, C++, React, MongoDB, Node.js, and Arduino</li><br>
-  <li>🌍 Firm believer in using technology to create a smarter, kinder, and more connected world</li><br>
+  <li>🌍 Dedicated to developing innovative software that drives positive social change</li><br>
 </ul>
 
 ---
