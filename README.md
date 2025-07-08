@@ -1,16 +1,67 @@
-## Hi there 👋
+<!-- Full-width Banner -->
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
-<!--
-**Amil2006/Amil2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Amil Mahajan</h1>
 
-Here are some ideas to get you started:
+<!-- Side-by-Side About + GIF -->
+<img src="./assets/night-code.gif" align="right" width="350px" style="margin-left: 20px;" />
+<h3>🚀 Who Am I?</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🎓 CSE undergrad with a passion for innovation and automation @VIT Vellore</li><br>
+  <li>🤖 Enthusiast in Generative AI, Machine Learning, and Blockchain Technologies</li><br>
+  <li>🛠️ Crafting intelligent solutions and real-world systems that make a difference</li><br>
+  <li>💡 Skilled in Python, C++, React, MongoDB, Node.js, and Arduino</li><br>
+  <li>🌍 Firm believer in using technology to create a smarter, kinder, and more connected world</li><br>
+</ul>
+
+---
+
+### ⚙️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="80" height="40"/>
+</p>
+
+---
+
+### 📊 My GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amil2006&show_icons=true&theme=great-gatsby" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amil2006&layout=compact&theme=great-gatsby" width="36.5%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amil2006&theme=great-gatsby" width="49%" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:amilmahajan6@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amil-mahajan-130106228/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Amil2006">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="filter: invert(1);" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“💡 Driven by curiosity, powered by caffeine, built with code.”</i></p>
