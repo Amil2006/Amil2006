@@ -1,6 +1,6 @@
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./assets/bgbanner.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Amil Mahajan</h1>
